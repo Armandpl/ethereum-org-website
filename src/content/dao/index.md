@@ -1,7 +1,7 @@
 ---
 title: Decentralized autonomous organizations (DAOs)
 description: An overview of DAOs on Ethereum
-lang: en
+lang: enn français
 template: use-cases
 emoji: ":handshake:"
 sidebar: true
@@ -44,7 +44,7 @@ This opens up so many new opportunities for global collaboration and coordinatio
 
 To help this make more sense, here's a few examples of how you could use a DAO:
 
-- A charity – you can accept membership and donations from anyone in the world and the group can decide how they to spend donations.
+- A charity – you can accept membership and donations from anyone in the world and the group can decide how they choose to spend donations.
 - A freelancer network – you could create a network of contractors who pool their funds for office spaces and software subscriptions.
 - Ventures and grants – you could create a venture fund that pools investment capital and votes on ventures to back. Repaid money could later be redistributed amongst DAO-members.
 
